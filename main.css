@@ -1,0 +1,22 @@
+body {
+  font-family: HK Grotesk;
+  background-color: Orange;
+}
+
+p {
+  font-family: calibri;
+  font-size: 19px;
+}
+
+h1 {
+  font-family:  calibri;bold
+  font-size: 40px;
+  color:#5f32a8;
+}
+
+.fancy {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 25px;
+  color: #4aa832
+}
+
